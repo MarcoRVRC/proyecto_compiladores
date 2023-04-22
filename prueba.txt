@@ -1,0 +1,13 @@
+public class EjemploIf{
+	public static void main(String args[]){
+		if(true){
+			System.out.println("Primer ejemplo de IF");
+			int[] array = new int[0];
+	int arreglo = [ 10];
+		
+		}
+		if(true){
+			System.out.println("Segundo ejemplo de IF");
+		}
+	}
+} 
